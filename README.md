@@ -11,3 +11,4 @@ complexity.
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [0001.cpp](0001.cpp) |
+| 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | Hard | [3700.cpp](3700.cpp) |
