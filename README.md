@@ -2,12 +2,12 @@
 
 My solutions to [LeetCode](https://leetcode.com/) problems, written in C++.
 
-Each file is named `<number>_<slug>.cpp` and contains the submitted `Solution`
-class together with a header explaining the problem, the approach, and the
-time/space complexity.
+Each file is named `<number>.cpp` and contains the submitted `Solution` class
+together with a header explaining the problem, the approach, and the time/space
+complexity.
 
 ## Solved
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [0001_two_sum.cpp](0001_two_sum.cpp) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [0001.cpp](0001.cpp) |
