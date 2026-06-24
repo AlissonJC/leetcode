@@ -24,7 +24,7 @@ using namespace std;
 
 class Solution {
 public:
-    string weightedWordMapping(vector<string>& words, vector<int>& weights) {
+    string mapWordWeights(vector<string>& words, vector<int>& weights) {
         string result;
         result.reserve(words.size());                 // exactly one char per word
         for (const string& w : words) {
