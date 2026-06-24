@@ -11,6 +11,7 @@ complexity.
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [0001.cpp](0001.cpp) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [0009.cpp](0009.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | Easy | [1200.cpp](1200.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | [2144.cpp](2144.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | Hard | [3700.cpp](3700.cpp) |
