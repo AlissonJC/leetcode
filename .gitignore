@@ -1,0 +1,6 @@
+# Compiled binaries / build artifacts
+*.o
+*.out
+a.out
+*.exe
+sol
