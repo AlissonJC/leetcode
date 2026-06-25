@@ -5,6 +5,7 @@
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-18-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-10-ff375f)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
 
@@ -85,3 +86,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 
 If you're stuck on a problem, read a solution to understand the idea — then write
 your own. Don't just copy-paste. 🙂
+
+## 📜 License
+
+Released under the [MIT License](LICENSE).
