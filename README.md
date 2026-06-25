@@ -1,8 +1,8 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-20-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-15-00af9b)
+![Solved](https://img.shields.io/badge/solved-21-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-16-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-3-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-2-ff375f)
 
@@ -16,10 +16,10 @@ the chosen approach, and the time/space complexity.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  15    |
+| 🟢 Easy    |  16    |
 | 🟡 Medium  |   3    |
 | 🔴 Hard    |   2    |
-| **Total**  | **20** |
+| **Total**  | **21** |
 
 ## ✅ Solved
 
@@ -40,6 +40,7 @@ the chosen approach, and the time/space complexity.
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [0066.cpp](solutions/0066.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [0067.cpp](solutions/0067.cpp) |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [0069.cpp](solutions/0069.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
