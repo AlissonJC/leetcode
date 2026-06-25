@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-12-brightgreen)
+![Solved](https://img.shields.io/badge/solved-13-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-10-00af9b)
-![Medium](https://img.shields.io/badge/Medium-1-ffb800)
+![Medium](https://img.shields.io/badge/Medium-2-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-1-ff375f)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -17,15 +17,16 @@ the chosen approach, and the time/space complexity.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  10    |
-| 🟡 Medium  |   1    |
+| 🟡 Medium  |   2    |
 | 🔴 Hard    |   1    |
-| **Total**  | **12** |
+| **Total**  | **13** |
 
 ## ✅ Solved
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [0001.cpp](solutions/0001.cpp) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | [0002.cpp](solutions/0002.cpp) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [0009.cpp](solutions/0009.cpp) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [0013.cpp](solutions/0013.cpp) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [0014.cpp](solutions/0014.cpp) |
