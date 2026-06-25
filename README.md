@@ -1,8 +1,8 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-24-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-19-00af9b)
+![Solved](https://img.shields.io/badge/solved-25-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-20-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-3-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-2-ff375f)
 
@@ -16,10 +16,10 @@ the chosen approach, and the time/space complexity.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  19    |
+| 🟢 Easy    |  20    |
 | 🟡 Medium  |   3    |
 | 🔴 Hard    |   2    |
-| **Total**  | **24** |
+| **Total**  | **25** |
 
 ## ✅ Solved
 
@@ -44,6 +44,7 @@ the chosen approach, and the time/space complexity.
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [0069.cpp](solutions/0069.cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | [0070.cpp](solutions/0070.cpp) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [0083.cpp](solutions/0083.cpp) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [0088.cpp](solutions/0088.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
