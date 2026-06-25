@@ -1,8 +1,8 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-10-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-8-00af9b)
+![Solved](https://img.shields.io/badge/solved-11-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-9-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-1-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-1-ff375f)
 
@@ -16,10 +16,10 @@ the chosen approach, and the time/space complexity.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |   8    |
+| 🟢 Easy    |   9    |
 | 🟡 Medium  |   1    |
 | 🔴 Hard    |   1    |
-| **Total**  | **10** |
+| **Total**  | **11** |
 
 ## ✅ Solved
 
@@ -30,6 +30,7 @@ the chosen approach, and the time/space complexity.
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [0013.cpp](solutions/0013.cpp) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [0014.cpp](solutions/0014.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | [0020.cpp](solutions/0020.cpp) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [0021.cpp](solutions/0021.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
