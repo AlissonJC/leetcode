@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-41-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-23-00af9b)
-![Medium](https://img.shields.io/badge/Medium-12-ffb800)
-![Hard](https://img.shields.io/badge/Hard-6-ff375f)
+![Solved](https://img.shields.io/badge/solved-54-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-26-00af9b)
+![Medium](https://img.shields.io/badge/Medium-18-ffb800)
+![Hard](https://img.shields.io/badge/Hard-10-ff375f)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
 
@@ -17,10 +17,10 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  23    |
-| 🟡 Medium  |  12    |
-| 🔴 Hard    |   6    |
-| **Total**  | **41** |
+| 🟢 Easy    |  26    |
+| 🟡 Medium  |  18    |
+| 🔴 Hard    |  10    |
+| **Total**  | **54** |
 
 ## ✅ Solved
 
@@ -41,11 +41,16 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | [0013.cpp](solutions/0013.cpp) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [0014.cpp](solutions/0014.cpp) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | [0015.cpp](solutions/0015.cpp) |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 🟡 Medium | [0016.cpp](solutions/0016.cpp) |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | [0017.cpp](solutions/0017.cpp) |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | [0018.cpp](solutions/0018.cpp) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | [0019.cpp](solutions/0019.cpp) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | [0020.cpp](solutions/0020.cpp) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [0021.cpp](solutions/0021.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [0026.cpp](solutions/0026.cpp) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [0027.cpp](solutions/0027.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | [0028.cpp](solutions/0028.cpp) |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | [0029.cpp](solutions/0029.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [0035.cpp](solutions/0035.cpp) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [0044.cpp](solutions/0044.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
@@ -61,12 +66,20 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | 🟡 Medium | [0194.sh](solutions/0194.sh) |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | 🟢 Easy | [0195.sh](solutions/0195.sh) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | 🔴 Hard | [0218.cpp](solutions/0218.cpp) |
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | 🔴 Hard | [0391.cpp](solutions/0391.cpp) |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | 🟢 Easy | [0705.cpp](solutions/0705.cpp) |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | 🟢 Easy | [0706.cpp](solutions/0706.cpp) |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡 Medium | [0707.cpp](solutions/0707.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
+| 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
+| 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | 🔴 Hard | [1439.cpp](solutions/1439.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
+| 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | 🔴 Hard | [2551.cpp](solutions/2551.cpp) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | [3737.cpp](solutions/3737.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [3838.cpp](solutions/3838.cpp) |
+| 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | 🟢 Easy | [3861.cpp](solutions/3861.cpp) |
 
 ## 🎯 How to read these
 
