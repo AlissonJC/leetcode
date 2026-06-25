@@ -1,8 +1,8 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-22-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-17-00af9b)
+![Solved](https://img.shields.io/badge/solved-23-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-18-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-3-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-2-ff375f)
 
@@ -16,10 +16,10 @@ the chosen approach, and the time/space complexity.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  17    |
+| 🟢 Easy    |  18    |
 | 🟡 Medium  |   3    |
 | 🔴 Hard    |   2    |
-| **Total**  | **22** |
+| **Total**  | **23** |
 
 ## ✅ Solved
 
@@ -36,6 +36,7 @@ the chosen approach, and the time/space complexity.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [0021.cpp](solutions/0021.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [0026.cpp](solutions/0026.cpp) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [0027.cpp](solutions/0027.cpp) |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | [0028.cpp](solutions/0028.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [0035.cpp](solutions/0035.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [0066.cpp](solutions/0066.cpp) |
