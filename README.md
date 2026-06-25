@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-26-brightgreen)
+![Solved](https://img.shields.io/badge/solved-27-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-21-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-3-ffb800)
-![Hard](https://img.shields.io/badge/Hard-2-ff375f)
+![Hard](https://img.shields.io/badge/Hard-3-ff375f)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
 
@@ -18,8 +18,8 @@ the chosen approach, and the time/space complexity.
 |------------|:------:|
 | 🟢 Easy    |  21    |
 | 🟡 Medium  |   3    |
-| 🔴 Hard    |   2    |
-| **Total**  | **26** |
+| 🔴 Hard    |   3    |
+| **Total**  | **27** |
 
 ## ✅ Solved
 
@@ -48,6 +48,7 @@ the chosen approach, and the time/space complexity.
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [0094.cpp](solutions/0094.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
+| 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | [3737.cpp](solutions/3737.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [3838.cpp](solutions/3838.cpp) |
