@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-81-brightgreen)
+![Solved](https://img.shields.io/badge/solved-82-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-33-ffb800)
-![Hard](https://img.shields.io/badge/Hard-22-ff375f)
+![Hard](https://img.shields.io/badge/Hard-23-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  26    |
 | 🟡 Medium  |  33    |
-| 🔴 Hard    |  22    |
-| **Total**  | **81** |
+| 🔴 Hard    |  23    |
+| **Total**  | **82** |
 
 ## ✅ Solved
 
@@ -66,6 +66,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 Medium | [0038.cpp](solutions/0038.cpp) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | [0039.cpp](solutions/0039.cpp) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | [0040.cpp](solutions/0040.cpp) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | [0041.cpp](solutions/0041.cpp) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [0044.cpp](solutions/0044.cpp) |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | 🟡 Medium | [0047.cpp](solutions/0047.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
