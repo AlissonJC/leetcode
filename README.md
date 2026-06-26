@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-58-brightgreen)
+![Solved](https://img.shields.io/badge/solved-59-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-20-ffb800)
-![Hard](https://img.shields.io/badge/Hard-12-ff375f)
+![Hard](https://img.shields.io/badge/Hard-13-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  26    |
 | 🟡 Medium  |  20    |
-| 🔴 Hard    |  12    |
-| **Total**  | **58** |
+| 🔴 Hard    |  13    |
+| **Total**  | **59** |
 
 ## ✅ Solved
 
@@ -83,6 +83,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | [3737.cpp](solutions/3737.cpp) |
+| 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | 🔴 Hard | [3739.cpp](solutions/3739.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [3838.cpp](solutions/3838.cpp) |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | 🟢 Easy | [3861.cpp](solutions/3861.cpp) |
 
