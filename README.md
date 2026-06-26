@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-77-brightgreen)
+![Solved](https://img.shields.io/badge/solved-78-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
-![Medium](https://img.shields.io/badge/Medium-32-ffb800)
+![Medium](https://img.shields.io/badge/Medium-33-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-19-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  26    |
-| 🟡 Medium  |  32    |
+| 🟡 Medium  |  33    |
 | 🔴 Hard    |  19    |
-| **Total**  | **77** |
+| **Total**  | **78** |
 
 ## ✅ Solved
 
@@ -97,6 +97,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 🔴 Hard | [1489.cpp](solutions/1489.cpp) |
 | 1568 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | 🔴 Hard | [1568.cpp](solutions/1568.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | 🟡 Medium | [2343.cpp](solutions/2343.cpp) |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | 🔴 Hard | [2551.cpp](solutions/2551.cpp) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
