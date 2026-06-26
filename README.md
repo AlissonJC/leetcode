@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-57-brightgreen)
+![Solved](https://img.shields.io/badge/solved-58-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-20-ffb800)
-![Hard](https://img.shields.io/badge/Hard-11-ff375f)
+![Hard](https://img.shields.io/badge/Hard-12-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  26    |
 | 🟡 Medium  |  20    |
-| 🔴 Hard    |  11    |
-| **Total**  | **57** |
+| 🔴 Hard    |  12    |
+| **Total**  | **58** |
 
 ## ✅ Solved
 
@@ -51,6 +51,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | [0022.cpp](solutions/0022.cpp) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 Hard | [0023.cpp](solutions/0023.cpp) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡 Medium | [0024.cpp](solutions/0024.cpp) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | [0025.cpp](solutions/0025.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [0026.cpp](solutions/0026.cpp) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [0027.cpp](solutions/0027.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | [0028.cpp](solutions/0028.cpp) |
