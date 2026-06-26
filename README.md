@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-63-brightgreen)
+![Solved](https://img.shields.io/badge/solved-64-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
-![Medium](https://img.shields.io/badge/Medium-22-ffb800)
+![Medium](https://img.shields.io/badge/Medium-23-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-15-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  26    |
-| 🟡 Medium  |  22    |
+| 🟡 Medium  |  23    |
 | 🔴 Hard    |  15    |
-| **Total**  | **63** |
+| **Total**  | **64** |
 
 ## ✅ Solved
 
@@ -58,6 +58,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | [0029.cpp](solutions/0029.cpp) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | [0031.cpp](solutions/0031.cpp) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | [0032.cpp](solutions/0032.cpp) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | [0033.cpp](solutions/0033.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [0035.cpp](solutions/0035.cpp) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [0044.cpp](solutions/0044.cpp) |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | 🟡 Medium | [0047.cpp](solutions/0047.cpp) |
