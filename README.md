@@ -1,8 +1,8 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-82-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-26-00af9b)
+![Solved](https://img.shields.io/badge/solved-83-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-27-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-33-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-23-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -18,10 +18,10 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  26    |
+| 🟢 Easy    |  27    |
 | 🟡 Medium  |  33    |
 | 🔴 Hard    |  23    |
-| **Total**  | **82** |
+| **Total**  | **83** |
 
 ## ✅ Solved
 
@@ -85,6 +85,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | 🔴 Hard | [0218.cpp](solutions/0218.cpp) |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | [0332.cpp](solutions/0332.cpp) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | 🔴 Hard | [0391.cpp](solutions/0391.cpp) |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 Easy | [0448.cpp](solutions/0448.cpp) |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | [0470.cpp](solutions/0470.cpp) |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | 🟡 Medium | [0478.cpp](solutions/0478.cpp) |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | 🟢 Easy | [0705.cpp](solutions/0705.cpp) |
