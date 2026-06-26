@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-86-brightgreen)
+![Solved](https://img.shields.io/badge/solved-87-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-33-ffb800)
-![Hard](https://img.shields.io/badge/Hard-26-ff375f)
+![Hard](https://img.shields.io/badge/Hard-27-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  27    |
 | 🟡 Medium  |  33    |
-| 🔴 Hard    |  26    |
-| **Total**  | **86** |
+| 🔴 Hard    |  27    |
+| **Total**  | **87** |
 
 ## ✅ Solved
 
@@ -86,6 +86,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | 🟢 Easy | [0195.sh](solutions/0195.sh) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | 🔴 Hard | [0218.cpp](solutions/0218.cpp) |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | [0220.cpp](solutions/0220.cpp) |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | [0239.cpp](solutions/0239.cpp) |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | [0332.cpp](solutions/0332.cpp) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | 🔴 Hard | [0391.cpp](solutions/0391.cpp) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 Easy | [0448.cpp](solutions/0448.cpp) |
