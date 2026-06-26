@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-60-brightgreen)
+![Solved](https://img.shields.io/badge/solved-61-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
-![Medium](https://img.shields.io/badge/Medium-21-ffb800)
+![Medium](https://img.shields.io/badge/Medium-22-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-13-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  26    |
-| 🟡 Medium  |  21    |
+| 🟡 Medium  |  22    |
 | 🔴 Hard    |  13    |
-| **Total**  | **60** |
+| **Total**  | **61** |
 
 ## ✅ Solved
 
@@ -59,6 +59,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | [0031.cpp](solutions/0031.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [0035.cpp](solutions/0035.cpp) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [0044.cpp](solutions/0044.cpp) |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | 🟡 Medium | [0047.cpp](solutions/0047.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [0066.cpp](solutions/0066.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [0067.cpp](solutions/0067.cpp) |
