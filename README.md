@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-90-brightgreen)
+![Solved](https://img.shields.io/badge/solved-91-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
-![Medium](https://img.shields.io/badge/Medium-36-ffb800)
+![Medium](https://img.shields.io/badge/Medium-37-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-27-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  27    |
-| 🟡 Medium  |  36    |
+| 🟡 Medium  |  37    |
 | 🔴 Hard    |  27    |
-| **Total**  | **90** |
+| **Total**  | **91** |
 
 ## ✅ Solved
 
@@ -93,6 +93,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | 🔴 Hard | [0391.cpp](solutions/0391.cpp) |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | 🟡 Medium | [0398.cpp](solutions/0398.cpp) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 🟢 Easy | [0448.cpp](solutions/0448.cpp) |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | [0451.cpp](solutions/0451.cpp) |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | [0470.cpp](solutions/0470.cpp) |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | 🟡 Medium | [0478.cpp](solutions/0478.cpp) |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | 🟢 Easy | [0705.cpp](solutions/0705.cpp) |
