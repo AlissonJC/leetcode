@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-84-brightgreen)
+![Solved](https://img.shields.io/badge/solved-85-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-33-ffb800)
-![Hard](https://img.shields.io/badge/Hard-24-ff375f)
+![Hard](https://img.shields.io/badge/Hard-25-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  27    |
 | 🟡 Medium  |  33    |
-| 🔴 Hard    |  24    |
-| **Total**  | **84** |
+| 🔴 Hard    |  25    |
+| **Total**  | **85** |
 
 ## ✅ Solved
 
@@ -75,6 +75,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [0067.cpp](solutions/0067.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [0069.cpp](solutions/0069.cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | [0070.cpp](solutions/0070.cpp) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | [0076.cpp](solutions/0076.cpp) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [0083.cpp](solutions/0083.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [0088.cpp](solutions/0088.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [0094.cpp](solutions/0094.cpp) |
