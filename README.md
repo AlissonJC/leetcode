@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-92-brightgreen)
+![Solved](https://img.shields.io/badge/solved-93-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
-![Medium](https://img.shields.io/badge/Medium-38-ffb800)
+![Medium](https://img.shields.io/badge/Medium-39-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-27-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  27    |
-| 🟡 Medium  |  38    |
+| 🟡 Medium  |  39    |
 | 🔴 Hard    |  27    |
-| **Total**  | **92** |
+| **Total**  | **93** |
 
 ## ✅ Solved
 
@@ -97,6 +97,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | [0470.cpp](solutions/0470.cpp) |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | 🟡 Medium | [0478.cpp](solutions/0478.cpp) |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | 🟡 Medium | [0497.cpp](solutions/0497.cpp) |
+| 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/) | 🟡 Medium | [0519.cpp](solutions/0519.cpp) |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | 🟢 Easy | [0705.cpp](solutions/0705.cpp) |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | 🟢 Easy | [0706.cpp](solutions/0706.cpp) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡 Medium | [0707.cpp](solutions/0707.cpp) |
