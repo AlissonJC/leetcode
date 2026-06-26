@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-83-brightgreen)
+![Solved](https://img.shields.io/badge/solved-84-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-33-ffb800)
-![Hard](https://img.shields.io/badge/Hard-23-ff375f)
+![Hard](https://img.shields.io/badge/Hard-24-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  27    |
 | 🟡 Medium  |  33    |
-| 🔴 Hard    |  23    |
-| **Total**  | **83** |
+| 🔴 Hard    |  24    |
+| **Total**  | **84** |
 
 ## ✅ Solved
 
@@ -56,6 +56,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [0027.cpp](solutions/0027.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | [0028.cpp](solutions/0028.cpp) |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | [0029.cpp](solutions/0029.cpp) |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | [0030.cpp](solutions/0030.cpp) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | [0031.cpp](solutions/0031.cpp) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | [0032.cpp](solutions/0032.cpp) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | [0033.cpp](solutions/0033.cpp) |
