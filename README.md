@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-79-brightgreen)
+![Solved](https://img.shields.io/badge/solved-80-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-33-ffb800)
-![Hard](https://img.shields.io/badge/Hard-20-ff375f)
+![Hard](https://img.shields.io/badge/Hard-21-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  26    |
 | 🟡 Medium  |  33    |
-| 🔴 Hard    |  20    |
-| **Total**  | **79** |
+| 🔴 Hard    |  21    |
+| **Total**  | **80** |
 
 ## ✅ Solved
 
@@ -89,6 +89,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | 🟢 Easy | [0705.cpp](solutions/0705.cpp) |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | 🟢 Easy | [0706.cpp](solutions/0706.cpp) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡 Medium | [0707.cpp](solutions/0707.cpp) |
+| 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | 🔴 Hard | [0753.cpp](solutions/0753.cpp) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | [0912.cpp](solutions/0912.cpp) |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | 🔴 Hard | [0996.cpp](solutions/0996.cpp) |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | [1192.cpp](solutions/1192.cpp) |
