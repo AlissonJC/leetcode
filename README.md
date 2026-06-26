@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-78-brightgreen)
+![Solved](https://img.shields.io/badge/solved-79-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-33-ffb800)
-![Hard](https://img.shields.io/badge/Hard-19-ff375f)
+![Hard](https://img.shields.io/badge/Hard-20-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  26    |
 | 🟡 Medium  |  33    |
-| 🔴 Hard    |  19    |
-| **Total**  | **78** |
+| 🔴 Hard    |  20    |
+| **Total**  | **79** |
 
 ## ✅ Solved
 
@@ -82,6 +82,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | 🟡 Medium | [0194.sh](solutions/0194.sh) |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | 🟢 Easy | [0195.sh](solutions/0195.sh) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | 🔴 Hard | [0218.cpp](solutions/0218.cpp) |
+| 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | [0332.cpp](solutions/0332.cpp) |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/) | 🔴 Hard | [0391.cpp](solutions/0391.cpp) |
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | [0470.cpp](solutions/0470.cpp) |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | 🟡 Medium | [0478.cpp](solutions/0478.cpp) |
