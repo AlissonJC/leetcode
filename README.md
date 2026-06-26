@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-59-brightgreen)
+![Solved](https://img.shields.io/badge/solved-60-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
-![Medium](https://img.shields.io/badge/Medium-20-ffb800)
+![Medium](https://img.shields.io/badge/Medium-21-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-13-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  26    |
-| 🟡 Medium  |  20    |
+| 🟡 Medium  |  21    |
 | 🔴 Hard    |  13    |
-| **Total**  | **59** |
+| **Total**  | **60** |
 
 ## ✅ Solved
 
@@ -56,6 +56,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | [0027.cpp](solutions/0027.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | [0028.cpp](solutions/0028.cpp) |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 Medium | [0029.cpp](solutions/0029.cpp) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | [0031.cpp](solutions/0031.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [0035.cpp](solutions/0035.cpp) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [0044.cpp](solutions/0044.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
