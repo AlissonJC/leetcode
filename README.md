@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-66-brightgreen)
+![Solved](https://img.shields.io/badge/solved-67-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-26-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-25-ffb800)
-![Hard](https://img.shields.io/badge/Hard-15-ff375f)
+![Hard](https://img.shields.io/badge/Hard-16-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  26    |
 | 🟡 Medium  |  25    |
-| 🔴 Hard    |  15    |
-| **Total**  | **66** |
+| 🔴 Hard    |  16    |
+| **Total**  | **67** |
 
 ## ✅ Solved
 
@@ -62,6 +62,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | [0034.cpp](solutions/0034.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [0035.cpp](solutions/0035.cpp) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 Medium | [0036.cpp](solutions/0036.cpp) |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 Hard | [0037.cpp](solutions/0037.cpp) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [0044.cpp](solutions/0044.cpp) |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | 🟡 Medium | [0047.cpp](solutions/0047.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
