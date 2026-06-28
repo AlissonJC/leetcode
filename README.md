@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-104-brightgreen)
+![Solved](https://img.shields.io/badge/solved-105-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
-![Medium](https://img.shields.io/badge/Medium-46-ffb800)
+![Medium](https://img.shields.io/badge/Medium-47-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-31-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  27    |
-| 🟡 Medium  |  46    |
+| 🟡 Medium  |  47    |
 | 🔴 Hard    |  31    |
-| **Total**  | **104** |
+| **Total**  | **105** |
 
 ## ✅ Solved
 
@@ -124,6 +124,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | 🟡 Medium | [2343.cpp](solutions/2343.cpp) |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | 🔴 Hard | [2551.cpp](solutions/2551.cpp) |
+| 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | [3020.cpp](solutions/3020.cpp) |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | 🔴 Hard | [3600.cpp](solutions/3600.cpp) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
