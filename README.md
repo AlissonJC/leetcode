@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-97-brightgreen)
+![Solved](https://img.shields.io/badge/solved-98-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
-![Medium](https://img.shields.io/badge/Medium-41-ffb800)
+![Medium](https://img.shields.io/badge/Medium-42-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-29-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  27    |
-| 🟡 Medium  |  41    |
+| 🟡 Medium  |  42    |
 | 🔴 Hard    |  29    |
-| **Total**  | **97** |
+| **Total**  | **98** |
 
 ## ✅ Solved
 
@@ -104,6 +104,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | 🟢 Easy | [0706.cpp](solutions/0706.cpp) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡 Medium | [0707.cpp](solutions/0707.cpp) |
 | 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | 🔴 Hard | [0753.cpp](solutions/0753.cpp) |
+| 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | 🟡 Medium | [0808.cpp](solutions/0808.cpp) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | [0912.cpp](solutions/0912.cpp) |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | 🔴 Hard | [0996.cpp](solutions/0996.cpp) |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | [1192.cpp](solutions/1192.cpp) |
