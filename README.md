@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-99-brightgreen)
+![Solved](https://img.shields.io/badge/solved-100-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-43-ffb800)
-![Hard](https://img.shields.io/badge/Hard-29-ff375f)
+![Hard](https://img.shields.io/badge/Hard-30-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  27    |
 | 🟡 Medium  |  43    |
-| 🔴 Hard    |  29    |
-| **Total**  | **99** |
+| 🔴 Hard    |  30    |
+| **Total**  | **100** |
 
 ## ✅ Solved
 
@@ -106,6 +106,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | 🔴 Hard | [0753.cpp](solutions/0753.cpp) |
 | 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | 🟡 Medium | [0808.cpp](solutions/0808.cpp) |
 | 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | 🟡 Medium | [0837.cpp](solutions/0837.cpp) |
+| 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | 🔴 Hard | [0850.cpp](solutions/0850.cpp) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | [0912.cpp](solutions/0912.cpp) |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | 🔴 Hard | [0996.cpp](solutions/0996.cpp) |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | [1192.cpp](solutions/1192.cpp) |
