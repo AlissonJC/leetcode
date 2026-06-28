@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-103-brightgreen)
+![Solved](https://img.shields.io/badge/solved-104-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
-![Medium](https://img.shields.io/badge/Medium-45-ffb800)
+![Medium](https://img.shields.io/badge/Medium-46-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-31-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  27    |
-| 🟡 Medium  |  45    |
+| 🟡 Medium  |  46    |
 | 🔴 Hard    |  31    |
-| **Total**  | **103** |
+| **Total**  | **104** |
 
 ## ✅ Solved
 
@@ -119,6 +119,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 🔴 Hard | [1489.cpp](solutions/1489.cpp) |
 | 1568 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | 🔴 Hard | [1568.cpp](solutions/1568.cpp) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 Medium | [1584.cpp](solutions/1584.cpp) |
+| 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | 🟡 Medium | [1846.cpp](solutions/1846.cpp) |
 | 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | 🔴 Hard | [2097.cpp](solutions/2097.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | 🟡 Medium | [2343.cpp](solutions/2343.cpp) |
