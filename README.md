@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-120-brightgreen)
+![Solved](https://img.shields.io/badge/solved-121-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
-![Medium](https://img.shields.io/badge/Medium-54-ffb800)
+![Medium](https://img.shields.io/badge/Medium-55-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  28    |
-| 🟡 Medium  |  54    |
+| 🟡 Medium  |  55    |
 | 🔴 Hard    |  38    |
-| **Total**  | **120** |
+| **Total**  | **121** |
 
 ## ✅ Solved
 
@@ -144,6 +144,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | [3737.cpp](solutions/3737.cpp) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | 🔴 Hard | [3739.cpp](solutions/3739.cpp) |
+| 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | 🟡 Medium | [3759.cpp](solutions/3759.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [3838.cpp](solutions/3838.cpp) |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | 🟢 Easy | [3861.cpp](solutions/3861.cpp) |
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | 🔴 Hard | [3934.cpp](solutions/3934.cpp) |
