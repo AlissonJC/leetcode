@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-125-brightgreen)
+![Solved](https://img.shields.io/badge/solved-126-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-29-00af9b)
-![Medium](https://img.shields.io/badge/Medium-58-ffb800)
+![Medium](https://img.shields.io/badge/Medium-59-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  29    |
-| 🟡 Medium  |  58    |
+| 🟡 Medium  |  59    |
 | 🔴 Hard    |  38    |
-| **Total**  | **125** |
+| **Total**  | **126** |
 
 ## ✅ Solved
 
@@ -120,6 +120,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/) | 🟡 Medium | [1116.cpp](solutions/1116.cpp) |
 | 1117 | [Building H2O](https://leetcode.com/problems/building-h2o/) | 🟡 Medium | [1117.cpp](solutions/1117.cpp) |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | [1192.cpp](solutions/1192.cpp) |
+| 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | 🟡 Medium | [1195.cpp](solutions/1195.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | 🟡 Medium | [1227.cpp](solutions/1227.cpp) |
