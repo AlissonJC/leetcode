@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-117-brightgreen)
+![Solved](https://img.shields.io/badge/solved-118-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
-![Medium](https://img.shields.io/badge/Medium-51-ffb800)
+![Medium](https://img.shields.io/badge/Medium-52-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  28    |
-| 🟡 Medium  |  51    |
+| 🟡 Medium  |  52    |
 | 🔴 Hard    |  38    |
-| **Total**  | **117** |
+| **Total**  | **118** |
 
 ## ✅ Solved
 
@@ -110,6 +110,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | 🟡 Medium | [0837.cpp](solutions/0837.cpp) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | 🔴 Hard | [0850.cpp](solutions/0850.cpp) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | [0912.cpp](solutions/0912.cpp) |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | [0973.cpp](solutions/0973.cpp) |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | 🟡 Medium | [0986.cpp](solutions/0986.cpp) |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | 🔴 Hard | [0996.cpp](solutions/0996.cpp) |
 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | 🔴 Hard | [1044.cpp](solutions/1044.cpp) |
