@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-116-brightgreen)
+![Solved](https://img.shields.io/badge/solved-117-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
-![Medium](https://img.shields.io/badge/Medium-50-ffb800)
+![Medium](https://img.shields.io/badge/Medium-51-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  28    |
-| 🟡 Medium  |  50    |
+| 🟡 Medium  |  51    |
 | 🔴 Hard    |  38    |
-| **Total**  | **116** |
+| **Total**  | **117** |
 
 ## ✅ Solved
 
@@ -89,6 +89,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | [0220.cpp](solutions/0220.cpp) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | [0224.cpp](solutions/0224.cpp) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | [0239.cpp](solutions/0239.cpp) |
+| 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | 🟡 Medium | [0324.cpp](solutions/0324.cpp) |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | [0332.cpp](solutions/0332.cpp) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [0347.cpp](solutions/0347.cpp) |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | 🟡 Medium | [0382.cpp](solutions/0382.cpp) |
