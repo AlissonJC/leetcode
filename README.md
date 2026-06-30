@@ -1,8 +1,8 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-121-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-28-00af9b)
+![Solved](https://img.shields.io/badge/solved-122-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-29-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-55-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -18,10 +18,10 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  28    |
+| 🟢 Easy    |  29    |
 | 🟡 Medium  |  55    |
 | 🔴 Hard    |  38    |
-| **Total**  | **121** |
+| **Total**  | **122** |
 
 ## ✅ Solved
 
@@ -115,6 +115,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | 🔴 Hard | [0996.cpp](solutions/0996.cpp) |
 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | 🔴 Hard | [1044.cpp](solutions/1044.cpp) |
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | 🟡 Medium | [1093.cpp](solutions/1093.cpp) |
+| 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/) | 🟢 Easy | [1114.cpp](solutions/1114.cpp) |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | [1192.cpp](solutions/1192.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
