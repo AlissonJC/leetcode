@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-113-brightgreen)
+![Solved](https://img.shields.io/badge/solved-114-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-49-ffb800)
-![Hard](https://img.shields.io/badge/Hard-36-ff375f)
+![Hard](https://img.shields.io/badge/Hard-37-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  28    |
 | 🟡 Medium  |  49    |
-| 🔴 Hard    |  36    |
-| **Total**  | **113** |
+| 🔴 Hard    |  37    |
+| **Total**  | **114** |
 
 ## ✅ Solved
 
@@ -132,6 +132,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | 🟡 Medium | [2343.cpp](solutions/2343.cpp) |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | 🔴 Hard | [2551.cpp](solutions/2551.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | [3020.cpp](solutions/3020.cpp) |
+| 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | 🔴 Hard | [3213.cpp](solutions/3213.cpp) |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [3454.cpp](solutions/3454.cpp) |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | 🔴 Hard | [3600.cpp](solutions/3600.cpp) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
