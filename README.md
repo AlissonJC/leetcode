@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-119-brightgreen)
+![Solved](https://img.shields.io/badge/solved-120-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
-![Medium](https://img.shields.io/badge/Medium-53-ffb800)
+![Medium](https://img.shields.io/badge/Medium-54-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  28    |
-| 🟡 Medium  |  53    |
+| 🟡 Medium  |  54    |
 | 🔴 Hard    |  38    |
-| **Total**  | **119** |
+| **Total**  | **120** |
 
 ## ✅ Solved
 
@@ -130,6 +130,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | [1851.cpp](solutions/1851.cpp) |
 | 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | 🔴 Hard | [1923.cpp](solutions/1923.cpp) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | 🟢 Easy | [1967.cpp](solutions/1967.cpp) |
+| 1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | 🟡 Medium | [1985.cpp](solutions/1985.cpp) |
 | 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | 🔴 Hard | [2097.cpp](solutions/2097.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | 🔴 Hard | [2223.cpp](solutions/2223.cpp) |
