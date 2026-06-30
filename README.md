@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-123-brightgreen)
+![Solved](https://img.shields.io/badge/solved-124-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-29-00af9b)
-![Medium](https://img.shields.io/badge/Medium-56-ffb800)
+![Medium](https://img.shields.io/badge/Medium-57-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  29    |
-| 🟡 Medium  |  56    |
+| 🟡 Medium  |  57    |
 | 🔴 Hard    |  38    |
-| **Total**  | **123** |
+| **Total**  | **124** |
 
 ## ✅ Solved
 
@@ -117,6 +117,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | 🟡 Medium | [1093.cpp](solutions/1093.cpp) |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/) | 🟢 Easy | [1114.cpp](solutions/1114.cpp) |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) | 🟡 Medium | [1115.cpp](solutions/1115.cpp) |
+| 1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/) | 🟡 Medium | [1116.cpp](solutions/1116.cpp) |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | 🔴 Hard | [1192.cpp](solutions/1192.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
