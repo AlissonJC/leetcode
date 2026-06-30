@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-108-brightgreen)
+![Solved](https://img.shields.io/badge/solved-109-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-49-ffb800)
-![Hard](https://img.shields.io/badge/Hard-31-ff375f)
+![Hard](https://img.shields.io/badge/Hard-32-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  28    |
 | 🟡 Medium  |  49    |
-| 🔴 Hard    |  31    |
-| **Total**  | **108** |
+| 🔴 Hard    |  32    |
+| **Total**  | **109** |
 
 ## ✅ Solved
 
@@ -122,6 +122,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 1568 | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | 🔴 Hard | [1568.cpp](solutions/1568.cpp) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | 🟡 Medium | [1584.cpp](solutions/1584.cpp) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | 🟡 Medium | [1846.cpp](solutions/1846.cpp) |
+| 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | [1851.cpp](solutions/1851.cpp) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | 🟢 Easy | [1967.cpp](solutions/1967.cpp) |
 | 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | 🔴 Hard | [2097.cpp](solutions/2097.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
