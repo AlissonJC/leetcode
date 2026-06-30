@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-105-brightgreen)
+![Solved](https://img.shields.io/badge/solved-106-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-27-00af9b)
-![Medium](https://img.shields.io/badge/Medium-47-ffb800)
+![Medium](https://img.shields.io/badge/Medium-48-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-31-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  27    |
-| 🟡 Medium  |  47    |
+| 🟡 Medium  |  48    |
 | 🔴 Hard    |  31    |
-| **Total**  | **105** |
+| **Total**  | **106** |
 
 ## ✅ Solved
 
@@ -114,6 +114,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | 🟡 Medium | [1227.cpp](solutions/1227.cpp) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | [1358.cpp](solutions/1358.cpp) |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | 🔴 Hard | [1439.cpp](solutions/1439.cpp) |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | 🔴 Hard | [1467.cpp](solutions/1467.cpp) |
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 🔴 Hard | [1489.cpp](solutions/1489.cpp) |
