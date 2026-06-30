@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-114-brightgreen)
+![Solved](https://img.shields.io/badge/solved-115-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
 ![Medium](https://img.shields.io/badge/Medium-49-ffb800)
-![Hard](https://img.shields.io/badge/Hard-37-ff375f)
+![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -20,8 +20,8 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 |------------|:------:|
 | 🟢 Easy    |  28    |
 | 🟡 Medium  |  49    |
-| 🔴 Hard    |  37    |
-| **Total**  | **114** |
+| 🔴 Hard    |  38    |
+| **Total**  | **115** |
 
 ## ✅ Solved
 
@@ -141,6 +141,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | 🔴 Hard | [3739.cpp](solutions/3739.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [3838.cpp](solutions/3838.cpp) |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | 🟢 Easy | [3861.cpp](solutions/3861.cpp) |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | 🔴 Hard | [3934.cpp](solutions/3934.cpp) |
 
 ## 🎯 How to read these
 
