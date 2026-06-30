@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-115-brightgreen)
+![Solved](https://img.shields.io/badge/solved-116-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-28-00af9b)
-![Medium](https://img.shields.io/badge/Medium-49-ffb800)
+![Medium](https://img.shields.io/badge/Medium-50-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  28    |
-| 🟡 Medium  |  49    |
+| 🟡 Medium  |  50    |
 | 🔴 Hard    |  38    |
-| **Total**  | **115** |
+| **Total**  | **116** |
 
 ## ✅ Solved
 
@@ -84,6 +84,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | [0193.sh](solutions/0193.sh) |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | 🟡 Medium | [0194.sh](solutions/0194.sh) |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | 🟢 Easy | [0195.sh](solutions/0195.sh) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | [0215.cpp](solutions/0215.cpp) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | 🔴 Hard | [0218.cpp](solutions/0218.cpp) |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | [0220.cpp](solutions/0220.cpp) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | [0224.cpp](solutions/0224.cpp) |
