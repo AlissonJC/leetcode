@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-127-brightgreen)
+![Solved](https://img.shields.io/badge/solved-128-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-29-00af9b)
-![Medium](https://img.shields.io/badge/Medium-60-ffb800)
+![Medium](https://img.shields.io/badge/Medium-61-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  29    |
-| 🟡 Medium  |  60    |
+| 🟡 Medium  |  61    |
 | 🔴 Hard    |  38    |
-| **Total**  | **127** |
+| **Total**  | **128** |
 
 ## ✅ Solved
 
@@ -80,6 +80,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [0088.cpp](solutions/0088.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [0094.cpp](solutions/0094.cpp) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | 🟡 Medium | [0164.cpp](solutions/0164.cpp) |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | 🟡 Medium | [0173.cpp](solutions/0173.cpp) |
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | 🟡 Medium | [0192.sh](solutions/0192.sh) |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | [0193.sh](solutions/0193.sh) |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | 🟡 Medium | [0194.sh](solutions/0194.sh) |
