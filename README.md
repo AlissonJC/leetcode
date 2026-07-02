@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-130-brightgreen)
+![Solved](https://img.shields.io/badge/solved-131-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-29-00af9b)
-![Medium](https://img.shields.io/badge/Medium-63-ffb800)
+![Medium](https://img.shields.io/badge/Medium-64-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  29    |
-| 🟡 Medium  |  63    |
+| 🟡 Medium  |  64    |
 | 🔴 Hard    |  38    |
-| **Total**  | **130** |
+| **Total**  | **131** |
 
 ## ✅ Solved
 
@@ -147,6 +147,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | [2812.cpp](solutions/2812.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | [3020.cpp](solutions/3020.cpp) |
 | 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | 🔴 Hard | [3213.cpp](solutions/3213.cpp) |
+| 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | 🟡 Medium | [3286.cpp](solutions/3286.cpp) |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [3454.cpp](solutions/3454.cpp) |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | 🔴 Hard | [3600.cpp](solutions/3600.cpp) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
