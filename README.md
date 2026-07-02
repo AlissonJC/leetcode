@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-129-brightgreen)
+![Solved](https://img.shields.io/badge/solved-130-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-29-00af9b)
-![Medium](https://img.shields.io/badge/Medium-62-ffb800)
+![Medium](https://img.shields.io/badge/Medium-63-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-38-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  29    |
-| 🟡 Medium  |  62    |
+| 🟡 Medium  |  63    |
 | 🔴 Hard    |  38    |
-| **Total**  | **129** |
+| **Total**  | **130** |
 
 ## ✅ Solved
 
@@ -144,6 +144,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | 🔴 Hard | [2223.cpp](solutions/2223.cpp) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | 🟡 Medium | [2343.cpp](solutions/2343.cpp) |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | 🔴 Hard | [2551.cpp](solutions/2551.cpp) |
+| 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | [2812.cpp](solutions/2812.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | [3020.cpp](solutions/3020.cpp) |
 | 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | 🔴 Hard | [3213.cpp](solutions/3213.cpp) |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [3454.cpp](solutions/3454.cpp) |
