@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-131-brightgreen)
+![Solved](https://img.shields.io/badge/solved-151-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-29-00af9b)
-![Medium](https://img.shields.io/badge/Medium-64-ffb800)
-![Hard](https://img.shields.io/badge/Hard-38-ff375f)
+![Medium](https://img.shields.io/badge/Medium-79-ffb800)
+![Hard](https://img.shields.io/badge/Hard-43-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -19,9 +19,9 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  29    |
-| 🟡 Medium  |  64    |
-| 🔴 Hard    |  38    |
-| **Total**  | **131** |
+| 🟡 Medium  |  79    |
+| 🔴 Hard    |  43    |
+| **Total**  | **151** |
 
 ## ✅ Solved
 
@@ -68,9 +68,28 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | [0039.cpp](solutions/0039.cpp) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 Medium | [0040.cpp](solutions/0040.cpp) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 Hard | [0041.cpp](solutions/0041.cpp) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 Hard | [0042.cpp](solutions/0042.cpp) |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 Medium | [0043.cpp](solutions/0043.cpp) |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | [0044.cpp](solutions/0044.cpp) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 Medium | [0045.cpp](solutions/0045.cpp) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | [0046.cpp](solutions/0046.cpp) |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | 🟡 Medium | [0047.cpp](solutions/0047.cpp) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | [0048.cpp](solutions/0048.cpp) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 Medium | [0049.cpp](solutions/0049.cpp) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | [0050.cpp](solutions/0050.cpp) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 Hard | [0051.cpp](solutions/0051.cpp) |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | 🔴 Hard | [0052.cpp](solutions/0052.cpp) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | [0053.cpp](solutions/0053.cpp) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | [0054.cpp](solutions/0054.cpp) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 Medium | [0055.cpp](solutions/0055.cpp) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | [0056.cpp](solutions/0056.cpp) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 Medium | [0057.cpp](solutions/0057.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [0058.cpp](solutions/0058.cpp) |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | 🟡 Medium | [0059.cpp](solutions/0059.cpp) |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | 🔴 Hard | [0060.cpp](solutions/0060.cpp) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | [0061.cpp](solutions/0061.cpp) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | [0062.cpp](solutions/0062.cpp) |
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | [0063.cpp](solutions/0063.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [0066.cpp](solutions/0066.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [0067.cpp](solutions/0067.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [0069.cpp](solutions/0069.cpp) |
@@ -150,6 +169,7 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | 🟡 Medium | [3286.cpp](solutions/3286.cpp) |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [3454.cpp](solutions/3454.cpp) |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | 🔴 Hard | [3600.cpp](solutions/3600.cpp) |
+| 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | 🔴 Hard | [3620.cpp](solutions/3620.cpp) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | [3737.cpp](solutions/3737.cpp) |
