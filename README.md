@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-151-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-29-00af9b)
-![Medium](https://img.shields.io/badge/Medium-79-ffb800)
-![Hard](https://img.shields.io/badge/Hard-43-ff375f)
+![Solved](https://img.shields.io/badge/solved-171-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-37-00af9b)
+![Medium](https://img.shields.io/badge/Medium-89-ffb800)
+![Hard](https://img.shields.io/badge/Hard-45-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -12,16 +12,17 @@ My solutions to [**LeetCode**](https://leetcode.com/) problems, written in moder
 Each solution lives in [`solutions/`](solutions/) as `solutions/<number>.<ext>`,
 containing the submitted code plus a header explaining the problem, the chosen
 approach, and the time/space complexity. Almost all are C++; a few problems that
-only accept Shell (e.g. 192–195) use a `.sh` script.
+only accept Shell (e.g. 192–195) use a `.sh` script, and JavaScript-only
+problems (e.g. 2618) use a `.js` file.
 
 ## 📊 Progress
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  29    |
-| 🟡 Medium  |  79    |
-| 🔴 Hard    |  43    |
-| **Total**  | **151** |
+| 🟢 Easy    |  37    |
+| 🟡 Medium  |  89    |
+| 🔴 Hard    |  45    |
+| **Total**  | **171** |
 
 ## ✅ Solved
 
@@ -162,7 +163,27 @@ only accept Shell (e.g. 192–195) use a `.sh` script.
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | 🔴 Hard | [2223.cpp](solutions/2223.cpp) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | 🟡 Medium | [2343.cpp](solutions/2343.cpp) |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | 🟡 Medium | [2492.cpp](solutions/2492.cpp) |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | 🔴 Hard | [2551.cpp](solutions/2551.cpp) |
+| 2618 | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | 🟡 Medium | [2618.js](solutions/2618.js) |
+| 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | 🟢 Easy | [2619.js](solutions/2619.js) |
+| 2620 | [Counter](https://leetcode.com/problems/counter/) | 🟢 Easy | [2620.js](solutions/2620.js) |
+| 2621 | [Sleep](https://leetcode.com/problems/sleep/) | 🟢 Easy | [2621.js](solutions/2621.js) |
+| 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/) | 🟡 Medium | [2622.js](solutions/2622.js) |
+| 2623 | [Memoize](https://leetcode.com/problems/memoize/) | 🟡 Medium | [2623.js](solutions/2623.js) |
+| 2624 | [Snail Traversal](https://leetcode.com/problems/snail-traversal/) | 🟡 Medium | [2624.js](solutions/2624.js) |
+| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/) | 🟡 Medium | [2625.js](solutions/2625.js) |
+| 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/) | 🟢 Easy | [2626.js](solutions/2626.js) |
+| 2627 | [Debounce](https://leetcode.com/problems/debounce/) | 🟡 Medium | [2627.js](solutions/2627.js) |
+| 2629 | [Function Composition](https://leetcode.com/problems/function-composition/) | 🟢 Easy | [2629.js](solutions/2629.js) |
+| 2630 | [Memoize II](https://leetcode.com/problems/memoize-ii/) | 🔴 Hard | [2630.js](solutions/2630.js) |
+| 2631 | [Group By](https://leetcode.com/problems/group-by/) | 🟡 Medium | [2631.js](solutions/2631.js) |
+| 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/) | 🟢 Easy | [2634.js](solutions/2634.js) |
+| 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | 🟢 Easy | [2635.js](solutions/2635.js) |
+| 2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | 🟡 Medium | [2637.js](solutions/2637.js) |
+| 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | 🟢 Easy | [2648.js](solutions/2648.js) |
+| 2649 | [Nested Array Generator](https://leetcode.com/problems/nested-array-generator/) | 🟡 Medium | [2649.js](solutions/2649.js) |
+| 2650 | [Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/) | 🔴 Hard | [2650.js](solutions/2650.js) |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | [2812.cpp](solutions/2812.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | [3020.cpp](solutions/3020.cpp) |
 | 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | 🔴 Hard | [3213.cpp](solutions/3213.cpp) |
