@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-171-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-37-00af9b)
-![Medium](https://img.shields.io/badge/Medium-89-ffb800)
-![Hard](https://img.shields.io/badge/Hard-45-ff375f)
+![Solved](https://img.shields.io/badge/solved-191-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-50-00af9b)
+![Medium](https://img.shields.io/badge/Medium-95-ffb800)
+![Hard](https://img.shields.io/badge/Hard-46-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -19,10 +19,10 @@ problems (e.g. 2618) use a `.js` file.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  37    |
-| 🟡 Medium  |  89    |
-| 🔴 Hard    |  45    |
-| **Total**  | **171** |
+| 🟢 Easy    |  50    |
+| 🟡 Medium  |  95    |
+| 🔴 Hard    |  46    |
+| **Total**  | **191** |
 
 ## ✅ Solved
 
@@ -91,6 +91,7 @@ problems (e.g. 2618) use a `.js` file.
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 Medium | [0061.cpp](solutions/0061.cpp) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | [0062.cpp](solutions/0062.cpp) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | [0063.cpp](solutions/0063.cpp) |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | [0064.cpp](solutions/0064.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [0066.cpp](solutions/0066.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [0067.cpp](solutions/0067.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [0069.cpp](solutions/0069.cpp) |
@@ -147,6 +148,7 @@ problems (e.g. 2618) use a `.js` file.
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
 | 1226 | [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/) | 🟡 Medium | [1226.cpp](solutions/1226.cpp) |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | 🟡 Medium | [1227.cpp](solutions/1227.cpp) |
+| 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | 🔴 Hard | [1301.cpp](solutions/1301.cpp) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | [1358.cpp](solutions/1358.cpp) |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | 🔴 Hard | [1439.cpp](solutions/1439.cpp) |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | 🔴 Hard | [1467.cpp](solutions/1467.cpp) |
@@ -184,6 +186,24 @@ problems (e.g. 2618) use a `.js` file.
 | 2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/) | 🟢 Easy | [2648.js](solutions/2648.js) |
 | 2649 | [Nested Array Generator](https://leetcode.com/problems/nested-array-generator/) | 🟡 Medium | [2649.js](solutions/2649.js) |
 | 2650 | [Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/) | 🔴 Hard | [2650.js](solutions/2650.js) |
+| 2665 | [Counter II](https://leetcode.com/problems/counter-ii/) | 🟢 Easy | [2665.js](solutions/2665.js) |
+| 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/) | 🟢 Easy | [2666.js](solutions/2666.js) |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | 🟢 Easy | [2667.js](solutions/2667.js) |
+| 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/) | 🟢 Easy | [2677.js](solutions/2677.js) |
+| 2693 | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | 🟡 Medium | [2693.js](solutions/2693.js) |
+| 2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/) | 🟡 Medium | [2694.js](solutions/2694.js) |
+| 2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/) | 🟢 Easy | [2695.js](solutions/2695.js) |
+| 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | 🟢 Easy | [2703.js](solutions/2703.js) |
+| 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | 🟢 Easy | [2704.js](solutions/2704.js) |
+| 2705 | [Compact Object](https://leetcode.com/problems/compact-object/) | 🟡 Medium | [2705.js](solutions/2705.js) |
+| 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/) | 🟢 Easy | [2715.js](solutions/2715.js) |
+| 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/) | 🟡 Medium | [2721.js](solutions/2721.js) |
+| 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | 🟡 Medium | [2722.js](solutions/2722.js) |
+| 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) | 🟢 Easy | [2723.js](solutions/2723.js) |
+| 2724 | [Sort By](https://leetcode.com/problems/sort-by/) | 🟢 Easy | [2724.js](solutions/2724.js) |
+| 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/) | 🟢 Easy | [2725.js](solutions/2725.js) |
+| 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | 🟢 Easy | [2726.js](solutions/2726.js) |
+| 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | 🟢 Easy | [2727.js](solutions/2727.js) |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | [2812.cpp](solutions/2812.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | [3020.cpp](solutions/3020.cpp) |
 | 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | 🔴 Hard | [3213.cpp](solutions/3213.cpp) |
