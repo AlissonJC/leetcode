@@ -1,9 +1,9 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-191-brightgreen)
+![Solved](https://img.shields.io/badge/solved-192-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-50-00af9b)
-![Medium](https://img.shields.io/badge/Medium-95-ffb800)
+![Medium](https://img.shields.io/badge/Medium-96-ffb800)
 ![Hard](https://img.shields.io/badge/Hard-46-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -20,9 +20,9 @@ problems (e.g. 2618) use a `.js` file.
 | Difficulty | Solved |
 |------------|:------:|
 | 🟢 Easy    |  50    |
-| 🟡 Medium  |  95    |
+| 🟡 Medium  |  96    |
 | 🔴 Hard    |  46    |
-| **Total**  | **191** |
+| **Total**  | **192** |
 
 ## ✅ Solved
 
@@ -148,6 +148,7 @@ problems (e.g. 2618) use a `.js` file.
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
 | 1226 | [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/) | 🟡 Medium | [1226.cpp](solutions/1226.cpp) |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | 🟡 Medium | [1227.cpp](solutions/1227.cpp) |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | 🟡 Medium | [1288.cpp](solutions/1288.cpp) |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/) | 🔴 Hard | [1301.cpp](solutions/1301.cpp) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | [1358.cpp](solutions/1358.cpp) |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | 🔴 Hard | [1439.cpp](solutions/1439.cpp) |
