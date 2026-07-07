@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-212-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-56-00af9b)
-![Medium](https://img.shields.io/badge/Medium-105-ffb800)
-![Hard](https://img.shields.io/badge/Hard-51-ff375f)
+![Solved](https://img.shields.io/badge/solved-223-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-57-00af9b)
+![Medium](https://img.shields.io/badge/Medium-113-ffb800)
+![Hard](https://img.shields.io/badge/Hard-53-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -19,10 +19,10 @@ problems (e.g. 2618) use a `.js` file.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  56    |
-| 🟡 Medium  |  105   |
-| 🔴 Hard    |  51    |
-| **Total**  | **212** |
+| 🟢 Easy    |  57    |
+| 🟡 Medium  |  113   |
+| 🔴 Hard    |  53    |
+| **Total**  | **223** |
 
 ## ✅ Solved
 
@@ -92,11 +92,21 @@ problems (e.g. 2618) use a `.js` file.
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 Medium | [0062.cpp](solutions/0062.cpp) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 Medium | [0063.cpp](solutions/0063.cpp) |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | [0064.cpp](solutions/0064.cpp) |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | 🔴 Hard | [0065.cpp](solutions/0065.cpp) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [0066.cpp](solutions/0066.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [0067.cpp](solutions/0067.cpp) |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 Hard | [0068.cpp](solutions/0068.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | [0069.cpp](solutions/0069.cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | [0070.cpp](solutions/0070.cpp) |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | 🟡 Medium | [0071.cpp](solutions/0071.cpp) |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 Medium | [0072.cpp](solutions/0072.cpp) |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | [0073.cpp](solutions/0073.cpp) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | [0074.cpp](solutions/0074.cpp) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | [0075.cpp](solutions/0075.cpp) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 Hard | [0076.cpp](solutions/0076.cpp) |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | 🟡 Medium | [0077.cpp](solutions/0077.cpp) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | [0078.cpp](solutions/0078.cpp) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | [0079.cpp](solutions/0079.cpp) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [0083.cpp](solutions/0083.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [0088.cpp](solutions/0088.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [0094.cpp](solutions/0094.cpp) |
@@ -236,6 +246,7 @@ problems (e.g. 2618) use a `.js` file.
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | 🔴 Hard | [3700.cpp](solutions/3700.cpp) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | [3737.cpp](solutions/3737.cpp) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | 🔴 Hard | [3739.cpp](solutions/3739.cpp) |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | 🟢 Easy | [3754.cpp](solutions/3754.cpp) |
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | 🟡 Medium | [3759.cpp](solutions/3759.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [3838.cpp](solutions/3838.cpp) |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | 🟢 Easy | [3861.cpp](solutions/3861.cpp) |
