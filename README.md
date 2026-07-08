@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-223-brightgreen)
-![Easy](https://img.shields.io/badge/Easy-57-00af9b)
-![Medium](https://img.shields.io/badge/Medium-113-ffb800)
-![Hard](https://img.shields.io/badge/Hard-53-ff375f)
+![Solved](https://img.shields.io/badge/solved-253-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-60-00af9b)
+![Medium](https://img.shields.io/badge/Medium-132-ffb800)
+![Hard](https://img.shields.io/badge/Hard-61-ff375f)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 My solutions to [**LeetCode**](https://leetcode.com/) problems, written in modern C++.
@@ -19,10 +19,10 @@ problems (e.g. 2618) use a `.js` file.
 
 | Difficulty | Solved |
 |------------|:------:|
-| 🟢 Easy    |  57    |
-| 🟡 Medium  |  113   |
-| 🔴 Hard    |  53    |
-| **Total**  | **223** |
+| 🟢 Easy    |  60    |
+| 🟡 Medium  |  132   |
+| 🔴 Hard    |  61    |
+| **Total**  | **253** |
 
 ## ✅ Solved
 
@@ -107,12 +107,22 @@ problems (e.g. 2618) use a `.js` file.
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | 🟡 Medium | [0077.cpp](solutions/0077.cpp) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | [0078.cpp](solutions/0078.cpp) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | [0079.cpp](solutions/0079.cpp) |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 Medium | [0080.cpp](solutions/0080.cpp) |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | [0081.cpp](solutions/0081.cpp) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium | [0082.cpp](solutions/0082.cpp) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [0083.cpp](solutions/0083.cpp) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | [0084.cpp](solutions/0084.cpp) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | [0085.cpp](solutions/0085.cpp) |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | 🟡 Medium | [0086.cpp](solutions/0086.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [0088.cpp](solutions/0088.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 Easy | [0094.cpp](solutions/0094.cpp) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [0121.cpp](solutions/0121.cpp) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 Medium | [0122.cpp](solutions/0122.cpp) |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 Hard | [0123.cpp](solutions/0123.cpp) |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | 🟡 Medium | [0148.cpp](solutions/0148.cpp) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | 🟡 Medium | [0164.cpp](solutions/0164.cpp) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | 🟡 Medium | [0173.cpp](solutions/0173.cpp) |
+| 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | [0188.cpp](solutions/0188.cpp) |
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | 🟡 Medium | [0192.sh](solutions/0192.sh) |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | 🟢 Easy | [0193.sh](solutions/0193.sh) |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | 🟡 Medium | [0194.sh](solutions/0194.sh) |
@@ -120,16 +130,21 @@ problems (e.g. 2618) use a `.js` file.
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 🟡 Medium | [0215.cpp](solutions/0215.cpp) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | 🔴 Hard | [0218.cpp](solutions/0218.cpp) |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | 🔴 Hard | [0220.cpp](solutions/0220.cpp) |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium | [0221.cpp](solutions/0221.cpp) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 🔴 Hard | [0224.cpp](solutions/0224.cpp) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 🔴 Hard | [0239.cpp](solutions/0239.cpp) |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | 🟡 Medium | [0274.cpp](solutions/0274.cpp) |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | 🟡 Medium | [0284.cpp](solutions/0284.cpp) |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 🟢 Easy | [0303.cpp](solutions/0303.cpp) |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | 🟡 Medium | [0304.cpp](solutions/0304.cpp) |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 🟡 Medium | [0309.cpp](solutions/0309.cpp) |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | 🔴 Hard | [0315.cpp](solutions/0315.cpp) |
 | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | 🟡 Medium | [0324.cpp](solutions/0324.cpp) |
 | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | 🔴 Hard | [0327.cpp](solutions/0327.cpp) |
 | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 🔴 Hard | [0332.cpp](solutions/0332.cpp) |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | 🟡 Medium | [0341.cpp](solutions/0341.cpp) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 🟡 Medium | [0347.cpp](solutions/0347.cpp) |
+| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | 🟡 Medium | [0376.cpp](solutions/0376.cpp) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | 🟡 Medium | [0380.cpp](solutions/0380.cpp) |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | 🔴 Hard | [0381.cpp](solutions/0381.cpp) |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | 🟡 Medium | [0382.cpp](solutions/0382.cpp) |
@@ -141,18 +156,24 @@ problems (e.g. 2618) use a `.js` file.
 | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 🟡 Medium | [0470.cpp](solutions/0470.cpp) |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | 🟡 Medium | [0478.cpp](solutions/0478.cpp) |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | 🟡 Medium | [0497.cpp](solutions/0497.cpp) |
+| 502 | [IPO](https://leetcode.com/problems/ipo/) | 🔴 Hard | [0502.cpp](solutions/0502.cpp) |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/) | 🟡 Medium | [0519.cpp](solutions/0519.cpp) |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | 🟡 Medium | [0528.cpp](solutions/0528.cpp) |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 Easy | [0561.cpp](solutions/0561.cpp) |
+| 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | 🔴 Hard | [0689.cpp](solutions/0689.cpp) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | 🟡 Medium | [0692.cpp](solutions/0692.cpp) |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | 🟢 Easy | [0705.cpp](solutions/0705.cpp) |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | 🟢 Easy | [0706.cpp](solutions/0706.cpp) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡 Medium | [0707.cpp](solutions/0707.cpp) |
 | 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | 🔴 Hard | [0710.cpp](solutions/0710.cpp) |
 | 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | 🔴 Hard | [0753.cpp](solutions/0753.cpp) |
+| 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | 🟡 Medium | [0764.cpp](solutions/0764.cpp) |
 | 808 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | 🟡 Medium | [0808.cpp](solutions/0808.cpp) |
 | 837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | 🟡 Medium | [0837.cpp](solutions/0837.cpp) |
+| 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | 🟡 Medium | [0849.cpp](solutions/0849.cpp) |
 | 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | 🔴 Hard | [0850.cpp](solutions/0850.cpp) |
+| 855 | [Exam Room](https://leetcode.com/problems/exam-room/) | 🟡 Medium | [0855.cpp](solutions/0855.cpp) |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | 🔴 Hard | [0857.cpp](solutions/0857.cpp) |
 | 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/) | 🟡 Medium | [0900.cpp](solutions/0900.cpp) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | [0912.cpp](solutions/0912.cpp) |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | [0973.cpp](solutions/0973.cpp) |
@@ -160,6 +181,7 @@ problems (e.g. 2618) use a `.js` file.
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | 🔴 Hard | [0996.cpp](solutions/0996.cpp) |
 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | 🔴 Hard | [1044.cpp](solutions/1044.cpp) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | 🟢 Easy | [1051.cpp](solutions/1051.cpp) |
+| 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | 🟡 Medium | [1090.cpp](solutions/1090.cpp) |
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | 🟡 Medium | [1093.cpp](solutions/1093.cpp) |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/) | 🟢 Easy | [1114.cpp](solutions/1114.cpp) |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) | 🟡 Medium | [1115.cpp](solutions/1115.cpp) |
@@ -170,6 +192,7 @@ problems (e.g. 2618) use a `.js` file.
 | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) | 🟡 Medium | [1195.cpp](solutions/1195.cpp) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | 🟢 Easy | [1200.cpp](solutions/1200.cpp) |
 | 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist/) | 🔴 Hard | [1206.cpp](solutions/1206.cpp) |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | 🟢 Easy | [1207.cpp](solutions/1207.cpp) |
 | 1226 | [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/) | 🟡 Medium | [1226.cpp](solutions/1226.cpp) |
 | 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | 🟡 Medium | [1227.cpp](solutions/1227.cpp) |
 | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | 🟡 Medium | [1286.cpp](solutions/1286.cpp) |
@@ -189,13 +212,17 @@ problems (e.g. 2618) use a `.js` file.
 | 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | 🔴 Hard | [1851.cpp](solutions/1851.cpp) |
 | 1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) | 🔴 Hard | [1923.cpp](solutions/1923.cpp) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | 🟢 Easy | [1967.cpp](solutions/1967.cpp) |
+| 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | 🟡 Medium | [1976.cpp](solutions/1976.cpp) |
 | 1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | 🟡 Medium | [1985.cpp](solutions/1985.cpp) |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | 🟢 Easy | [2037.cpp](solutions/2037.cpp) |
 | 2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | 🔴 Hard | [2097.cpp](solutions/2097.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2144.cpp](solutions/2144.cpp) |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | [2149.cpp](solutions/2149.cpp) |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | 🟡 Medium | [2161.cpp](solutions/2161.cpp) |
 | 2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | 🔴 Hard | [2223.cpp](solutions/2223.cpp) |
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | 🟡 Medium | [2343.cpp](solutions/2343.cpp) |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | 🟡 Medium | [2492.cpp](solutions/2492.cpp) |
+| 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | 🟡 Medium | [2542.cpp](solutions/2542.cpp) |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | 🔴 Hard | [2551.cpp](solutions/2551.cpp) |
 | 2618 | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | 🟡 Medium | [2618.js](solutions/2618.js) |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | 🟢 Easy | [2619.js](solutions/2619.js) |
@@ -235,11 +262,13 @@ problems (e.g. 2618) use a `.js` file.
 | 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | 🟢 Easy | [2726.js](solutions/2726.js) |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | 🟢 Easy | [2727.js](solutions/2727.js) |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | 🟡 Medium | [2812.cpp](solutions/2812.cpp) |
+| 2813 | [Maximum Elegance of a K-Length Subsequence](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/) | 🔴 Hard | [2813.cpp](solutions/2813.cpp) |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/) | 🟡 Medium | [3020.cpp](solutions/3020.cpp) |
 | 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | 🔴 Hard | [3213.cpp](solutions/3213.cpp) |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | 🟡 Medium | [3286.cpp](solutions/3286.cpp) |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | 🔴 Hard | [3454.cpp](solutions/3454.cpp) |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | 🟢 Easy | [3517.cpp](solutions/3517.cpp) |
+| 3572 | [Maximize Y-Sum by Picking a Triplet of Distinct X-Values](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | 🟡 Medium | [3572.cpp](solutions/3572.cpp) |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | 🔴 Hard | [3600.cpp](solutions/3600.cpp) |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | 🔴 Hard | [3620.cpp](solutions/3620.cpp) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | 🔴 Hard | [3699.cpp](solutions/3699.cpp) |
@@ -247,6 +276,7 @@ problems (e.g. 2618) use a `.js` file.
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | 🟡 Medium | [3737.cpp](solutions/3737.cpp) |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | 🔴 Hard | [3739.cpp](solutions/3739.cpp) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | 🟢 Easy | [3754.cpp](solutions/3754.cpp) |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | 🟡 Medium | [3756.cpp](solutions/3756.cpp) |
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | 🟡 Medium | [3759.cpp](solutions/3759.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | [3838.cpp](solutions/3838.cpp) |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | 🟢 Easy | [3861.cpp](solutions/3861.cpp) |
